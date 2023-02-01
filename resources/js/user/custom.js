@@ -1,0 +1,5 @@
+require("./package")
+require("./price-range")
+require("./jquery.scrollUp.min")
+require("./custom-cart")
+require("./main")

@@ -1,0 +1,8 @@
+@import "~bootstrap3/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+@import "~owl.carousel/dist/assets/owl.carousel.min.css";
+@import "~owl.carousel/dist/assets/owl.theme.default.min.css";
+@import "./price-range.css";
+@import "./cart-checkout.css";
+@import "./custom.css";
+@import "./custom2.css";
